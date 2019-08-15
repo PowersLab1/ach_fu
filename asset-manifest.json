@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/ACH_APP/static/css/main.cf6584be.chunk.css",
+    "main.js": "/ACH_APP/static/js/main.ff7dae14.chunk.js",
+    "main.js.map": "/ACH_APP/static/js/main.ff7dae14.chunk.js.map",
+    "runtime~main.js": "/ACH_APP/static/js/runtime~main.35986adc.js",
+    "runtime~main.js.map": "/ACH_APP/static/js/runtime~main.35986adc.js.map",
+    "static/js/2.9ec89a77.chunk.js": "/ACH_APP/static/js/2.9ec89a77.chunk.js",
+    "static/js/2.9ec89a77.chunk.js.map": "/ACH_APP/static/js/2.9ec89a77.chunk.js.map",
+    "index.html": "/ACH_APP/index.html",
+    "precache-manifest.d104e84c06c1a8dd5ad22ef48e73523e.js": "/ACH_APP/precache-manifest.d104e84c06c1a8dd5ad22ef48e73523e.js",
+    "service-worker.js": "/ACH_APP/service-worker.js",
+    "static/css/main.cf6584be.chunk.css.map": "/ACH_APP/static/css/main.cf6584be.chunk.css.map",
+    "static/media/psych_logo.jpg": "/ACH_APP/static/media/psych_logo.6956dbda.jpg",
+    "static/media/rating_keydown_1.png": "/ACH_APP/static/media/rating_keydown_1.d9fbf22f.png",
+    "static/media/rating_keydown_2.png": "/ACH_APP/static/media/rating_keydown_2.6a659dd4.png",
+    "static/media/rating_keydown_3.png": "/ACH_APP/static/media/rating_keydown_3.d955b91a.png",
+    "static/media/rating_keydown_4.png": "/ACH_APP/static/media/rating_keydown_4.c8b7c686.png",
+    "static/media/rating_keydown_5.png": "/ACH_APP/static/media/rating_keydown_5.34958048.png"
+  }
+}
