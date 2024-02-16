@@ -1,4 +1,4 @@
-# Documentation for the VCH_APP developed by William M. Smith
+# Documentation for the ACH_APP developed by William M. Smith
 
 # Installation and serving
 Download all source files. Be sure to have Node.js installed along with node package manager (npm). Navigate to the folder via Bash or alternative shell and run `npm install` to get all of the modules. 
