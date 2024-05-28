@@ -1,6 +1,6 @@
 {
   "taskVersion": "1.0.0",
-  "taskName": "ach_fu",
+  "taskName": "ACH_FU",
   "debug": false,
   "awsLambda": {
     "saveTaskData": {
